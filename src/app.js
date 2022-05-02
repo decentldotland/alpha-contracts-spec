@@ -1,0 +1,1 @@
+console.log("aNFT enhanced FCP spec -- May 2nd 2022 go to --> ../contracts/nft\n");

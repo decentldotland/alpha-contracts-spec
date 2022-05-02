@@ -1,0 +1,13 @@
+{
+  "name": "Atomic NFT",
+  "ticker": "aNFT",
+  "balances": {
+    "vZY2XY1RD9HIfWi8ift-1_DnHLDadZMWrufSh-_rKF0": 10
+  },
+  "invocations": [],
+  "foreignCalls": [],
+  "invokedForeignRequests": [],
+  "pendingForeignRequests": [],
+  "isTradable": true,
+  "allowance": {}
+}

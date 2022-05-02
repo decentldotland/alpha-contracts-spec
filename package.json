@@ -1,0 +1,31 @@
+{
+  "name": "alpha-contracts-spec",
+  "version": "0.0.1",
+  "description": "a set of proposed smart contracts, alpha releases and improvements",
+  "type": "module",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decentldotland/alpha-contracts-spec.git"
+  },
+  "keywords": [
+    "NFT",
+    "Arweave",
+    "spec",
+    "aNFT",
+    "smart contract",
+    "SmartWeave"
+  ],
+  "author": "charmful0x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/decentldotland/alpha-contracts-spec/issues"
+  },
+  "homepage": "https://github.com/decentldotland/alpha-contracts-spec#readme",
+  "dependencies": {
+    "arweave": "^1.10.23"
+  }
+}
